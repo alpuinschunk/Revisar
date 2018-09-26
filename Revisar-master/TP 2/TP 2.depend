@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1537797572 source:d:\alpuin schunk\tp 2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1537797125 d:\alpuin schunk\tp 2\arrayemployees.h
+
+1537797572 source:d:\alpuin schunk\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1537967942 source:d:\alpuin\revisar-master\tp 2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1537966775 d:\alpuin\revisar-master\tp 2\arrayemployees.h
+
+1537967942 source:d:\alpuin\revisar-master\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
